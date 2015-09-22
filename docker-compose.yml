@@ -1,0 +1,9 @@
+pig:
+  build: .
+  ports:
+    - "8080:10010"
+  volumes:
+    - ./pit:/home/pig/.pit
+    - ./groonga:/home/pig/groonga
+    - ./user_data:/home/pig/user_data
+    - ./media:/home/pig/media

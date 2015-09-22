@@ -1,0 +1,12 @@
+pit/*
+!pit/default.yaml
+!pit/.gitkeep
+
+groonga/*
+!groonga/.gitkeep
+
+user_data/*
+!user_data/.gitkeep
+
+media/*
+!media/.gitkeep

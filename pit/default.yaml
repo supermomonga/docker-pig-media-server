@@ -1,0 +1,9 @@
+Pig Media Server:
+  hostname: lvh.me
+  page_title: Pig Media Server
+  groonga: /home/pig/groonga
+  path: /home/pig/media
+  user_data_path: /home/pig/user_data
+  exclude_path:
+    - temp
+    - Thumbs.db
